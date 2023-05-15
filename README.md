@@ -83,13 +83,13 @@ Habit Tracker
 
 ## Screenshots
 ### Home Page
-![image](/assets/img/SS1.PNG)
+![image](https://i.postimg.cc/ZKKK4FDk/SS1.png)
 ### Sign-up Page
-![image](../img/SS2.PNG)
+![image](https://i.postimg.cc/fybnn5WB/SS2.png)
 ### Sign-in Page
 ![image](https://user-images.githubusercontent.com/90390855/235321490-3973cbbd-4d22-433b-8dda-72c3d19d5236.png)
 ### Weekly View Page
-![image](../img/SS3.PNG)
+![image](https://i.postimg.cc/FH366wgh/SS3.png)
 
 
 ## Contributing
