@@ -83,7 +83,7 @@ Habit Tracker
 
 ## Screenshots
 ### Home Page
-![image](../img/SS1.PNG)
+![image](/assets/img/SS1.PNG)
 ### Sign-up Page
 ![image](../img/SS2.PNG)
 ### Sign-in Page
