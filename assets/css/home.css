@@ -15,16 +15,18 @@ body {
     z-index: -10;
 }
 .welcome-title {
-  color: rgb(16, 133, 151);
+  color: rgb(11, 81, 53);
   font-size: 30px;
   font-weight: 600;
   text-align: center;
   padding: 50px;
+  margin-top:200px;
+
 }
 .welcome-button {
   width: 200px;
   height: 50px;
-  background-color: rgb(16, 133, 151);
+  background-color: rgb(11, 81, 53);
   color: #fff;
   font-size: 20px;
   font-weight: 600;
@@ -32,7 +34,7 @@ body {
   margin-left: 40%;
   margin-top: 20px;
   cursor: pointer;
-  box-shadow: 0 0.5em 0.5em -0.4em  rgb(16, 133, 151);
+  box-shadow: 0 0.5em 0.5em -0.4em  rgb(11, 81, 53);
 }
 .welcome-button:hover,
 .welcome-button:focus {
@@ -42,14 +44,14 @@ body {
 
 /* ---------- styles when there are no habits ---------- */
 #noHabitText{
-    color:  rgb(16, 133, 151);
+    color:  rgb(11, 81, 53);
     text-align: center;
     font-size: 30px;
     margin-top: 40px;
 }
 /* Button used to open the form */
 #open-btn-fixed {
-  background-color: rgb(16, 133, 151);
+  background-color: rgb(11, 81, 53);
   color: white;
   font-size: 18px;
   padding: 12px 10px;
@@ -60,7 +62,7 @@ body {
   opacity: 0.8;
   position: fixed;
   width: 250px;
-  box-shadow: 0 0.5em 0.5em -0.4em rgb(16, 133, 151);
+  box-shadow: 0 0.5em 0.5em -0.4em rgb(11, 81, 53);
 }
 #open-btn-fixed:hover,
 #open-btn-fixed:focus {
